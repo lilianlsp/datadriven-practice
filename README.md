@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-30 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-30 |
 | [Repository Commit Ranking](./practice/sql/repository-commit-ranking) | SQL | Medium | 2026-10-29 |
 
