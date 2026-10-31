@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Single File](./practice/python/single-file) | Python | Easy | 2026-10-31 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-10-30 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-30 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-30 |
