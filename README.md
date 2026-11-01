@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Score Sorter](./practice/python/the-score-sorter) | Python | Easy | 2026-11-01 |
 | [Absent Without Leave](./practice/python/absent-without-leave) | Python | Medium | 2026-10-31 |
 | [Single File](./practice/python/single-file) | Python | Easy | 2026-10-31 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-10-30 |
