@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-04 |
 | [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-02 |
 | [The Score Sorter](./practice/python/the-score-sorter) | Python | Easy | 2026-11-01 |
 | [Absent Without Leave](./practice/python/absent-without-leave) | Python | Medium | 2026-10-31 |
