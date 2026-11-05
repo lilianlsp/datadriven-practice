@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
 | [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
 | [The Lazy Unpacker](./practice/python/the-lazy-unpacker) | Python | Medium | 2026-11-04 |
 | [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-02 |
