@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
 | [The Long Way Around](./practice/python/the-long-way-around) | Python | Easy | 2026-11-04 |
