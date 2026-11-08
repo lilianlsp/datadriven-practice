@@ -1,6 +1,6 @@
-# avid_glade_3400's data engineering practice
+# brazilian_girl's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/avid_glade_3400), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
+| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Easy | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
