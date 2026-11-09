@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Told](./practice/python/all-told) | Python | Easy | 2026-11-09 |
 | [Even Filter](./practice/python/even-filter) | Python | Easy | 2026-11-09 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-11-09 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-11-08 |
