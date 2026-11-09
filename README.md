@@ -9,7 +9,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-11-08 |
-| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Easy | 2026-11-07 |
+| [The Hourly Bucket](./practice/python/the-hourly-bucket) | Python | Medium | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-11-06 |
 | [The Page Turner](./practice/python/the-page-turner) | Python | Medium | 2026-11-05 |
