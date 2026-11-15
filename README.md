@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-15 |
 | [The Spread](./practice/python/the-spread) | Python | Easy | 2026-11-13 |
 | [Explode List](./practice/python/explode-list) | Python | Easy | 2026-11-13 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-11-11 |
