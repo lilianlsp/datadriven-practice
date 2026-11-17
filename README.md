@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Merge Champion](./practice/python/the-merge-champion) | Python | Medium | 2026-11-17 |
 | [The Op Dispatcher](./practice/python/the-op-dispatcher) | Python | Easy | 2026-11-16 |
 | [Unique Values](./practice/python/unique-values) | Python | Easy | 2026-11-16 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-15 |
