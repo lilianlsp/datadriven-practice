@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What the Card Remembers](./practice/python/what-the-card-remembers) | Python | Medium | 2026-11-18 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-17 |
 | [The Merge Champion](./practice/python/the-merge-champion) | Python | Medium | 2026-11-17 |
 | [The Op Dispatcher](./practice/python/the-op-dispatcher) | Python | Easy | 2026-11-16 |
