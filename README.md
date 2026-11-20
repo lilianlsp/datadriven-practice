@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-11-20 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-11-20 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-18 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-11-18 |
