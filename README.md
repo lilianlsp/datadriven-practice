@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Long Messages](./practice/sql/long-messages) | SQL | Hard | 2026-11-18 |
+| [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-11-18 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-11-18 |
 | [What the Card Remembers](./practice/python/what-the-card-remembers) | Python | Medium | 2026-11-18 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-17 |
