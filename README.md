@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-20 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-11-20 |
