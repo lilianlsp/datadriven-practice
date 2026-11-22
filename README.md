@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-22 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
 | [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-11-22 |
 | [Hands Apart](./practice/python/hands-apart) | Python | Easy | 2026-11-21 |
