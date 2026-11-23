@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
 | [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-11-23 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-11-22 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-11-22 |
