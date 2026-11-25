@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-11-25 |
 | [Closing Bell](./practice/python/closing-bell) | Python | Medium | 2026-11-24 |
 | [Top Product Categories](./practice/sql/top-product-categories) | SQL | Medium | 2026-11-23 |
