@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/brazilian_girl), committed
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Dictionary Key Intersection](./practice/python/dictionary-key-intersection) | Python | Medium | 2026-11-26 |
 | [Where the Data Breaks](./practice/sql/where-the-data-breaks) | SQL | Medium | 2026-11-26 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [The Chunked Reader](./practice/python/the-chunked-reader) | Python | Medium | 2026-11-25 |
